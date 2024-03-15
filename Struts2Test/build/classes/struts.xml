@@ -13,6 +13,7 @@
 		<action name="testAction" class="TestAction">
 			<result name="success">/success.jsp</result>
 			<result name="error">/error.jsp</result>
+			<!--<result name="success">/welcome.jsp</result>-->
 		</action>
 		</package>
 	</struts>

@@ -5535,3 +5535,156 @@ java.lang.NullPointerException: Cannot invoke "org.eclipse.jst.j2ee.model.IModel
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 15:17:08.336
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\xwork-2.1.3.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 15:17:08.343
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\xwork-2.1.3.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 15:17:08.344
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\xwork-2.1.3.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 15:17:08.346
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\xwork-2.1.3.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 15:17:08.349
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\xwork-2.1.3.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 15:17:08.352
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\xwork-2.1.3.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 15:17:08.353
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\xwork-2.1.3.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 15:26:03.643
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\struts2-core-2.2.1.1.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 15:26:03.648
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\struts2-core-2.2.1.1.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 15:26:03.650
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\struts2-core-2.2.1.1.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 15:26:03.651
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\struts2-core-2.2.1.1.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 15:26:03.653
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\struts2-core-2.2.1.1.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 15:26:03.654
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\struts2-core-2.2.1.1.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 15:26:03.656
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\struts2-core-2.2.1.1.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 15:26:03.695
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\struts2-core-2.2.1.1.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 15:26:03.720
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\struts2-core-2.2.1.1.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 15:26:03.745
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\struts2-core-2.2.1.1.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:00:49.246
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\struts2-core-2.2.1.1.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:00:49.254
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\struts2-core-2.2.1.1.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:00:49.257
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\struts2-core-2.2.1.1.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:00:49.259
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\struts2-core-2.2.1.1.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:00:49.261
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\struts2-core-2.2.1.1.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:00:49.262
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\struts2-core-2.2.1.1.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:00:49.264
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\struts2-core-2.2.1.1.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:00:49.387
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\struts2-core-2.2.1.1.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:00:49.406
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\struts2-core-2.2.1.1.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:00:49.424
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\struts2-core-2.2.1.1.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:38:32.626
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\xwork-2.1.3.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:38:32.632
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\xwork-2.1.3.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:38:32.634
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\xwork-2.1.3.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:38:32.636
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\xwork-2.1.3.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:38:32.638
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\xwork-2.1.3.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:38:32.639
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\xwork-2.1.3.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:38:32.641
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\xwork-2.1.3.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:47:58.182
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\javassist.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:47:58.187
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\javassist.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:47:58.188
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\javassist.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:47:58.189
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\javassist.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:47:58.190
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\javassist.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:47:58.192
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\javassist.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:47:58.193
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\javassist.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:53:03.882
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\struts2-core-2.3.15.1.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:53:03.886
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\struts2-core-2.3.15.1.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:53:03.887
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\struts2-core-2.3.15.1.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:53:03.889
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\struts2-core-2.3.15.1.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:53:03.892
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\struts2-core-2.3.15.1.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:53:03.893
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\struts2-core-2.3.15.1.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:53:03.895
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\struts2-core-2.3.15.1.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:53:03.919
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\struts2-core-2.3.15.1.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:53:03.946
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\struts2-core-2.3.15.1.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.core 4 1006 2024-03-15 16:53:03.968
+!MESSAGE C:\Users\P0107869\eclipse-workspace\Struts2Test\src\main\webapp\WEB-INF\lib\struts2-core-2.3.15.1.jar is not on its project's build path

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Doctype Declaration -->
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+    "file:///C:/Users/P0107869/struts-2.0.dtd">
+	
+	<!-- Create a struts tag for all the mapping information -->
+	<struts>
+		<!-- Create a package -->
+		<package name="test" extends="struts-default">
+		<!-- Create all the mapping information -->
+		<!-- mapping a url to an action -->
+		<action name="testAction" class="TestAction">
+			<result name="success">/success.jsp</result>
+			<result name="error">/error.jsp</result>
+			<result name="success">/welcome.jsp</result>
+		</action>
+		</package>
+	</struts>

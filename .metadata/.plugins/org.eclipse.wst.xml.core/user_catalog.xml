@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+  <uri name="https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd" uri="file:///C:/Users/P0107869/struts-6.0.dtd.dtd" webURL="https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd"/>
+</catalog>

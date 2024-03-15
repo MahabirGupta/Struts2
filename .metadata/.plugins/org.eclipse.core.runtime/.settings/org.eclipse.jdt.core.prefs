@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Program Files/Java/jdk-17/lib/jrt-fs.jar
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=C\:/Program Files/Java/jdk-17/lib/src.zip
+org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
+org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=17
+org.eclipse.jdt.core.compiler.compliance=17
+org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
+org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+org.eclipse.jdt.core.compiler.release=enabled
+org.eclipse.jdt.core.compiler.source=17
+org.eclipse.jdt.core.userLibrary.Struts2=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="C\:/Users/P0107869/Downloads/struts-6.3.0.2/lib/commons-fileupload-1.5.jar"/>\r\n\t<archive path\="C\:/Users/P0107869/Downloads/struts-6.3.0.2/lib/commons-io-2.13.0.jar"/>\r\n\t<archive path\="C\:/Users/P0107869/Downloads/struts-6.3.0.2/lib/commons-logging-1.2.jar"/>\r\n\t<archive path\="C\:/Users/P0107869/Downloads/struts-6.3.0.2/lib/freemarker-2.3.32.jar"/>\r\n\t<archive path\="C\:/Users/P0107869/Downloads/struts-6.3.0.2/lib/javassist-3.29.0-GA.jar"/>\r\n\t<archive path\="C\:/Users/P0107869/Downloads/struts-6.3.0.2/lib/ognl-3.3.4.jar"/>\r\n\t<archive path\="C\:/Users/P0107869/Downloads/struts-6.3.0.2/lib/struts2-core-6.3.0.2.jar"/>\r\n\t<archive path\="C\:/Users/P0107869/Downloads/struts-6.3.0.2/lib/commons-lang3-3.13.0.jar"/>\r\n</userlibrary>\r\n

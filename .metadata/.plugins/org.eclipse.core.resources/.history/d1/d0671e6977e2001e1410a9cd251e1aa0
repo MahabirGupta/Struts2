@@ -8,7 +8,7 @@ public class TestAction {
 	public String execute() {
 		
 		System.out.println("execute() method called");
-		message = "ERROR Message";
+		message = "SUCCESS Message";
 		return "error";
 	}
 

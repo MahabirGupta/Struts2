@@ -9,7 +9,7 @@ public class TestAction {
 		
 		System.out.println("execute() method called");
 		message = "ERROR Message";
-		return "error";
+		return "success";
 	}
 
 //	generate getter and setter for the message variable

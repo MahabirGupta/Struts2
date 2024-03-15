@@ -8,8 +8,8 @@ public class TestAction {
 	public String execute() {
 		
 		System.out.println("execute() method called");
-		message = "ERROR Message";
-		return "error";
+		message = "SUCCESS Message";
+		return "success";
 	}
 
 //	generate getter and setter for the message variable

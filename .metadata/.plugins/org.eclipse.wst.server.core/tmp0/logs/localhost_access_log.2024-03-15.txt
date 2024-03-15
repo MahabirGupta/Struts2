@@ -13,3 +13,4 @@
 127.0.0.1 - - [15/Mar/2024:10:16:04 +0800] "GET / HTTP/1.1" 404 751
 0:0:0:0:0:0:0:1 - - [15/Mar/2024:10:16:30 +0800] "GET /Struts2Test/testAction HTTP/1.1" 200 154
 0:0:0:0:0:0:0:1 - - [15/Mar/2024:10:17:05 +0800] "GET /Struts2Test/testAction HTTP/1.1" 200 155
+0:0:0:0:0:0:0:1 - - [15/Mar/2024:10:42:20 +0800] "GET /Struts2Test/testAction HTTP/1.1" 200 155

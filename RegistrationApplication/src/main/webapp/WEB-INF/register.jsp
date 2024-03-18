@@ -9,5 +9,16 @@
 </head>
 <body>
 
+<!-- Create a form tag -->
+<s:form action="registerAction">
+	<s:textfield name="firstName" label="First Name"/>
+	<s:textfield name="lastName" label="Last Name"/>
+	<s:radio name="gender" list="{'Male','Female'}" label="Gender"/>
+	<s:textfield name="age" label="Age"/>
+	<s:textfield name="email" label="Email"/>
+	
+	<!-- Create a submit button -->
+	<s:submit value="Register"/>
+</s:form>
 </body>
 </html>

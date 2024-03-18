@@ -5,10 +5,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>Registration Form</title>
 </head>
 <body>
 
+<h2>Registration Form</h2>
 <!-- Create a form tag -->
 <s:form action="registerAction">
 	<s:textfield name="firstName" label="First Name"/>

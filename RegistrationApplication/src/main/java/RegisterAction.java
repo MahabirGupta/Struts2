@@ -1,6 +1,7 @@
 import com.opensymphony.xwork2.Action;
 
 public class RegisterAction implements Action{
+	
 	String firstName, lastName, gender,age,email;
 	
 public String execute() {

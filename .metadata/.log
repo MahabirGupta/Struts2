@@ -5823,3 +5823,6 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.oomph.setup.ui 1 0 2024-03-18 10:53:53.243
 !MESSAGE Setup tasks were performed during startup. See 'C:\Users\P0107869\eclipse\jee-2023-12\eclipse\configuration\org.eclipse.oomph.setup\setup.log' for details
+
+!ENTRY org.eclipse.wst.server.core 4 0 2024-03-18 15:49:51.972
+!MESSAGE Server Tomcat v8.5 Server at localhost failed to start.

@@ -16,8 +16,7 @@
 		<!-- "RegisterAction" is the name of the class -->
 		<action name="registerAction" class="RegisterAction">
 			<result name="success">/welcome.jsp</result>
-			
-			<!--<result name="success">/welcome.jsp</result>-->
+			<result name="input">/register.jsp</result>
 		</action>
 		
 		</package>

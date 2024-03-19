@@ -43,25 +43,25 @@ public void setEmail(String email) {
 }
 
 //override the validate method in ActionSupport
-public void validate() {
-	if(firstName.equals("")) {
-		addFieldError("firstName","First Name is required");
-	}
-	if(lastName.equals("")) {
-		addFieldError("lastName","Last Name is required");
-	}
-	if(gender == null) {
-		addFieldError("gender","Gender is required");
-	}
-	if(age == null) {
-		addFieldError("age","Age is required");
-	}
-	else if(age <= 18) {
-		addFieldError("age","Age should be above 18");
-	}
-	if(email.equals("")) {
-		addFieldError("email","Email is required");
-	}
-}
+//public void validate() {
+//	if(firstName.equals("")) {
+//		addFieldError("firstName","First Name is required");
+//	}
+//	if(lastName.equals("")) {
+//		addFieldError("lastName","Last Name is required");
+//	}
+//	if(gender == null) {
+//		addFieldError("gender","Gender is required");
+//	}
+//	if(age == null) {
+//		addFieldError("age","Age is required");
+//	}
+//	else if(age <= 18) {
+//		addFieldError("age","Age should be above 18");
+//	}
+//	if(email.equals("")) {
+//		addFieldError("email","Email is required");
+//	}
+//}
 
 }

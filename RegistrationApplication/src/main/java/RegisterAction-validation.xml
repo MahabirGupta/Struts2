@@ -38,7 +38,7 @@
 	<message>Age should be above ${min}</message>
 
 </validator>
-
+<!--  
 <validator type="requiredstring">
 	
 	<param name="fieldName">email</param>
@@ -51,4 +51,15 @@
 	<message>Must provide a valid email</message>
 
 </validator>
+-->
+<!-- Create a field tag -->
+<field name="email">
+	<field-validator type="requiredstring">
+		<message>Email is required</message>
+	</field-validator>
+	
+	<field-validator type="email">
+		<message>Must provide a valid email</message>
+	</field-validator>
+</field>
 </validators>

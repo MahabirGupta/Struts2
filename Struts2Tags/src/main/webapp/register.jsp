@@ -18,6 +18,10 @@
 	<s:radio name="gender" list="{'Male','Female'}" label="Gender"/>
 	<s:textfield name="age" label="Age"/>
 	<s:textfield name="email" label="Email"/>
+	<!-- To allow user to key in multiple lines of codes -->
+	<s:textarea name="address" cols="30" rows="7" label="Address"></s:textarea>
+	<!-- To reset all the values use reset tag -->
+	<s:reset value="Reset"/>
 	
 	<!-- Create a submit button -->
 	<s:submit value="Register"/>

@@ -2,7 +2,7 @@ import com.opensymphony.xwork2.ActionSupport;
 
 public class RegisterAction extends ActionSupport{
 	
-	String firstName, lastName, gender,email,address;
+	String firstName, lastName, gender,email,address,selectedColor;
 	Integer age;
 	
 public String execute() {
@@ -47,6 +47,14 @@ public String getAddress() {
 public void setAddress(String address) {
 	this.address = address;
 }
+public String getSelectedColor() {
+	return selectedColor;
+}
+public void setSelectedColor(String selectedColor) {
+	this.selectedColor = selectedColor;
+}
+
+
 
 
 

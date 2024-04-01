@@ -21,9 +21,9 @@
 	<!-- To allow user to key in multiple lines of codes -->
 	<s:textarea name="address" cols="30" rows="7" label="Address:"></s:textarea>
 	<!-- Create a select tag -->
-	<%--<s:select list="{'Blue','Red','Green','White'}" name="selectedColor" headerKey="None" headervalue="Select a color" label="Favourite Color:"/>--%>
+	<s:select list="{'Blue','Red','Green','White'}" name="selectedColor" headerKey="None" headerValue="Select a color" label="Favourite Color:"/>
 	<!-- To select multiple values -->
-	<s:select multiple="true" list="{'Blue','Red','Green','White'}" name="selectedColor" headerKey="None" headervalue="Select a color" label="Favourite Color:"/>
+	<%--  <s:select multiple="true" list="colors" name="selectedColor" headerKey="None" headervalue="Select a color" label="Favourite Color:"/>--%>
 	<!-- To reset all the values use reset tag -->
 	<s:reset value="Reset"/>
 	

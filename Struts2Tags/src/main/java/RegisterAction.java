@@ -1,9 +1,31 @@
+import java.util.ArrayList;
+import java.util.List;
+
 import com.opensymphony.xwork2.ActionSupport;
 
 public class RegisterAction extends ActionSupport{
 	
 	String firstName, lastName, gender,email,address,selectedColor;
 	Integer age;
+	List<String> colors;
+	
+//	Create method to initialize form
+	public String initializeFormFields() {
+		
+		initializeColors();
+		return "input";
+		
+	}
+	
+//	Create method to initialize colors
+	public void initializeColors() {
+		colors = new ArrayList<String>();
+		colors.add("Red");
+		colors.add("Blue");
+		colors.add("Green");
+		colors.add("White");
+		
+	}
 	
 public String execute() {
 		
@@ -53,6 +75,13 @@ public String getSelectedColor() {
 public void setSelectedColor(String selectedColor) {
 	this.selectedColor = selectedColor;
 }
+public List<String> getColors() {
+	return colors;
+}
+public void setColors(List<String> colors) {
+	this.colors = colors;
+}
+
 
 
 

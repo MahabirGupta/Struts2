@@ -24,6 +24,8 @@
 	<s:select list="{'Blue','Red','Green','White'}" name="selectedColor" headerKey="None" headerValue="Select a color" label="Favourite Color:"/>
 	<!-- To select multiple values -->
 	<%--  <s:select multiple="true" list="colors" name="selectedColor" headerKey="None" headervalue="Select a color" label="Favourite Color:"/>--%>
+	<!-- To create a checkbox -->
+	<s:checkbox name="subscription" value="true" label="Subscribe to our newsletter" />
 	<!-- To reset all the values use reset tag -->
 	<s:reset value="Reset"/>
 	

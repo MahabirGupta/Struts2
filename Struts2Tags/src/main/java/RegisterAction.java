@@ -8,8 +8,11 @@ public class RegisterAction extends ActionSupport{
 	String firstName, lastName, gender,email,address,selectedColor;
 	Integer age;
 	List<String> colors;
+	Boolean subscription;
 	
-//	Create method to initialize form
+
+
+	//	Create method to initialize form
 	public String initializeFormFields() {
 		
 		initializeColors();
@@ -30,6 +33,13 @@ public class RegisterAction extends ActionSupport{
 public String execute() {
 		
 		System.out.println("execute() method called");
+		
+//		Check if subscription is true
+		if(subscription == true) {
+			System.out.println("You are a subscriber");
+		}else {
+			System.out.println("You are not a subscriber");
+		}
 		
 		return "success";
 	}
@@ -82,8 +92,13 @@ public void setColors(List<String> colors) {
 	this.colors = colors;
 }
 
+public Boolean getSubscription() {
+	return subscription;
+}
 
-
+public void setSubscription(Boolean subscription) {
+	this.subscription = subscription;
+}
 
 
 

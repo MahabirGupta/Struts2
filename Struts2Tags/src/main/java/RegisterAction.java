@@ -2,13 +2,21 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.opensymphony.xwork2.ActionSupport;
+import com.opensymphony.xwork2.Preparable;
 
-public class RegisterAction extends ActionSupport{
+public class RegisterAction extends ActionSupport implements Preparable{
 	
 	String firstName, lastName, gender,email,address,selectedColor;
 	Integer age;
 	List<String> colors;
 	Boolean subscription;
+//	List<String> hobbies;
+	List hobbies = new ArrayList();
+	
+
+	String selectedHobbies;
+	
+//	List<String> selectedHobbies = new ArrayList<String>();
 	
 
 
@@ -16,6 +24,7 @@ public class RegisterAction extends ActionSupport{
 	public String initializeFormFields() {
 		
 		initializeColors();
+		initializeHobbies();
 		return "input";
 		
 	}
@@ -30,6 +39,17 @@ public class RegisterAction extends ActionSupport{
 		
 	}
 	
+//	Create method to initialize colors
+	public void initializeHobbies() {
+		
+		hobbies = new ArrayList<String>();
+		hobbies.add("Drawing");
+		hobbies.add("Teaching");
+		hobbies.add("Singing");
+		hobbies.add("Programming");
+		
+	}
+	
 public String execute() {
 		
 		System.out.println("execute() method called");
@@ -41,8 +61,19 @@ public String execute() {
 			System.out.println("You are not a subscriber");
 		}
 		
+		initializeFormFields();
+		initializeHobbies();
 		return "success";
 	}
+
+public void prepare() throws Exception {
+	hobbies = new ArrayList<String>();
+	hobbies.add("Drawing");
+	hobbies.add("Teaching");
+	hobbies.add("Singing");
+	hobbies.add("Programming");
+
+}
 public String getFirstName() {
 	return firstName;
 }
@@ -100,7 +131,29 @@ public void setSubscription(Boolean subscription) {
 	this.subscription = subscription;
 }
 
+public List<String> getHobbies() {
+	return hobbies;
+}
 
+public void setHobbies(List<String> hobbies) {
+	this.hobbies = hobbies;
+}
+
+public String getSelectedHobbies() {
+	return selectedHobbies;
+}
+
+public void setSelectedHobbies(String selectedHobbies) {
+	this.selectedHobbies = selectedHobbies;
+}
+
+//public List<String> getSelectedHobbies() {
+//    return selectedHobbies;
+//}
+//
+//public void setSelectedHobbies(List<String> selectedHobbies) {
+//    this.selectedHobbies = selectedHobbies;
+//}
 
 //override the validate method in ActionSupport
 //public void validate() {

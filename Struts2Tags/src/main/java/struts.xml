@@ -11,6 +11,20 @@
 		<!-- package "register" inherits all the properties from "struts-default" -->
 		<package name="register" extends="struts-default">
 		
+		<!-- Define interceptors -->
+        <interceptors>
+            <!-- Define interceptors here -->
+            <interceptor name="params" class="RegisterAction"></interceptor>
+            <interceptor-stack name="basicStack">
+            <!-- Define interceptors for the stack -->
+            <interceptor-ref name="params"/>
+            <interceptor-ref name="prepare"/>
+            </interceptor-stack>
+					
+        </interceptors>
+		
+		
+					
 		<!-- Create all the mapping information -->
 		<!-- mapping a url "registerAction" to an action -->
 		<!-- "RegisterAction" is the name of the class -->
@@ -22,7 +36,11 @@
 		<!-- Create a new action tag and name it formLoadAction -->
 		<action name="formLoadAction" method="initializeFormFields" class="RegisterAction"> <!-- Add the method attribute and name of action class -->
 			<result name="input">/register.jsp</result>
+			
 		</action>
+		
+		
+		
 		
 		</package>
 	</struts>
